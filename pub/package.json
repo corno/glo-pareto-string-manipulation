@@ -1,0 +1,27 @@
+{
+  "author": "Corno",
+  "files": [
+    "dist",
+    "data"
+  ],
+  "keywords": [],
+  "main": "./dist/index.js",
+  "bugs": {
+    "url": "https://github.com/corno/pareto/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/corno/pareto#readme",
+  "license": "ISC",
+  "name": "glo-pareto-string-manipulation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/glo-pareto-string-manipulation.git"
+  },
+  "types": "dist/index.d.ts",
+  "version": "0.1.0",
+  "dependencies": {
+    "pareto-core-types": "^0.7.0"
+  },
+  "interface-fingerprint": "9c480e9dfacab5f02dd0ac3f1cf912554148ec6d",
+  "content-fingerprint": "816a2cc748e23cc35b31428e37795cad597bd0b3"
+}
