@@ -8,10 +8,10 @@ export type FSplitString = ($: {
 export type FSplitStringIn2 = ($: {
     value: string
     splitter: string
-}) => pt.Array<{
+}) => {
     first: string
     second: string | null
-}>
+}
 
 export type FTrimEnd = ($: string) => string
 
